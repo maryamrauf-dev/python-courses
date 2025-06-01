@@ -12,5 +12,5 @@ def guess_game():
         else:
             print("You guessed it right....")
             break
-    print("\t \t Finally! You guessed it in ",attempts,"tries")
+    print(f"\t \t Finally! You guessed it in ",attempts,"tries")
 guess_game()
