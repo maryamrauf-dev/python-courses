@@ -1,0 +1,1 @@
+print("Dear Maryam,\n\tThis Python course is nice.\nThanks")
